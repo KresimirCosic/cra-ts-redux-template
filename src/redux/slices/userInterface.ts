@@ -46,7 +46,7 @@ const userInterfaceSlice = createSlice({
     closeMenu(state) {
       state.menu = { open: false };
     },
-    openNotified(state) {
+    openNotifier(state) {
       state.notifier = { open: true };
     },
     closeNotifier(state) {
@@ -60,7 +60,7 @@ export const {
   closeLoader,
   openMenu,
   closeMenu,
-  openNotified,
+  openNotifier,
   closeNotifier,
 } = userInterfaceSlice.actions;
 
