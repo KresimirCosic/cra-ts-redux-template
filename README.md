@@ -10,7 +10,7 @@
 mkdir my-app
 cd my-app
 git init
-git pull https://github.com/KresimirCosic/cra-ts-redux-template ./
+git pull https://github.com/KresimirCosic/cra-ts-redux-template
 npm install
 ```
 
