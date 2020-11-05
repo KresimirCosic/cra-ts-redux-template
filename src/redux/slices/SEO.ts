@@ -11,8 +11,7 @@ export interface SEOData {
 }
 
 const initialState: SEOData = {
-  title:
-    'Template deriving from a standard create-react-app using TypeScript and Redux as a baselines entry point for most applications.',
+  title: 'create-react-app template using Redux and TypeScript',
   metaTags: [
     { name: 'author', content: 'Kresimir Cosic' },
     {
