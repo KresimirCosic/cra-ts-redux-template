@@ -1,6 +1,17 @@
 {
   "name": "cra-ts-redux-template",
-  "version": "0.1.0",
+  "author": {
+    "name": "Kresimir Cosic",
+    "email": "kresimir.cosic.business@gmail.com"
+  },
+  "description": "Template deriving from a standard create-react-app using TypeScript and Redux as a baselines entry point for most applications.",
+  "keywords": ["javascript", "typescript", "react", "reactjs", "create-react-app", "redux"],
+  "homepage": "https://github.com/KresimirCosic/cra-ts-redux-template",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KresimirCosic/cra-ts-redux-template"
+  },
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
